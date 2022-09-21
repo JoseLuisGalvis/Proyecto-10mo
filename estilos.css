@@ -112,13 +112,13 @@ nav a {
     background-size: cover;
 }
   
-#slide-1 {background-image: url(../img/V1.jpg);}
-#slide-2 {animation-delay: 5s; background-image: url(../img/V2.jpg);}
-#slide-3 {animation-delay: 10s; background-image: url(../img/V3.jpg);}
-#slide-4 {animation-delay: 15s; background-image: url(../img/V4.jpg);}
-#slide-5 {animation-delay: 25s; background-image: url(../img/V5.jpg);}
-#slide-6 {animation-delay: 30s; background-image: url(../img/V6.jpg);}
-#slide-6 {animation-delay: 35s; background-image: url(../img/V7.jpg);}
+#slide-1 {background-image: url(../Proyecto-10mo/img/V1.jpg);}
+#slide-2 {animation-delay: 5s; background-image: url(../Proyecto-10mo/img/V2.jpg);}
+#slide-3 {animation-delay: 10s; background-image: url(../Proyecto-10mo/img/V3.jpg);}
+#slide-4 {animation-delay: 15s; background-image: url(../Proyecto-10mo/img/V4.jpg);}
+#slide-5 {animation-delay: 25s; background-image: url(../Proyecto-10mo/img/V5.jpg);}
+#slide-6 {animation-delay: 30s; background-image: url(../Proyecto-10mo/img/V6.jpg);}
+#slide-6 {animation-delay: 35s; background-image: url(../Proyecto-10mo/img/V7.jpg);}
 
 @keyframes slider-animation {
       
@@ -272,7 +272,7 @@ nav a {
 }  
 .home {  
     height: 100vh;  
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/S1.jpg);  
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../Proyecto-10mo/img/S1.jpg);  
     background-size: cover;  
     background-position: center center;  
     background-attachment: fixed;  
@@ -336,20 +336,20 @@ nav a {
     }  
 }  
 .about {  
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/S2.jpg);  
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../Proyecto-10mo/img/S2.jpg);  
     background-size: cover;  
     background-position: center center;  
     background-attachment: fixed;       
 }  
  
 .contact {  
-         background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/S3.jpg);  
+         background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../Proyecto-10mo/img/S3.jpg);  
     background-size: cover;  
     background-position: center center;  
     background-attachment: fixed;  
 }  
 .work {  
-         background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/S4.jpg);  
+         background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../Proyecto-10mo/img/S4.jpg);  
     background-size: cover;  
     background-position: center center;  
     background-attachment: fixed;  
