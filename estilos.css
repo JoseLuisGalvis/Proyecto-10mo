@@ -206,7 +206,6 @@ nav a {
     width: 100%;
   }
 }
-}
 
 .seccion_1_titulo h2 {
   font-size: 2em;
@@ -416,7 +415,7 @@ nav a {
   background-attachment: fixed;
 }
 
-// Preloader  
+/* Preloader */  
 
 .spinner {
   position: fixed;
